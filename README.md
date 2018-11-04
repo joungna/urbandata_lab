@@ -93,6 +93,8 @@ https://brunch.co.kr/@needleworm/1
 장소 서울역 위웍
 준비 노트북(파이참, 주피터) 위에 링크 (우편자동화 엑셀, 고등학교 파이썬) 코딩 실습해보기
 
-
+# 엑셀대신 파이썬 Git 실습하기 입니다
+https://github.com/FinanceData/Life-is-short
+링크와 학습한 파이썬 소스를 폴더별로 저장했습니다.
 
 
