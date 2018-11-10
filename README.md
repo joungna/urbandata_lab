@@ -182,6 +182,8 @@ https://rogerdudler.github.io/git-guide/index.ko.html
 예시) https://m.edwith.org/deeplearningai1/lecture/34798
 
 -4)  산업별 집적지 신규 설문조사, 딥러닝학습 수정  
+https://github.com/joungna/urbandata_lab/blob/develop/%EC%A3%BC%ED%83%9D%EA%B0%80%EA%B2%A9%EC%98%88%EC%B8%A1_%EC%8B%A0%EA%B2%BD%EB%A7%9D.jpg
+
 -5) 신규 데이터분석 모델로 산업 생태계 예측 및 영향력 분석 검증 
 -6) 시각화 및 웹 공유작업
 예시) https://seomal.org/
